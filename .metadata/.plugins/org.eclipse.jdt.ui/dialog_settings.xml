@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
-	<item value="D:\SECPROG MP\SECPROG_MP\FoobarBookshop_MP\apache-tomcat-7.0.59\lib" key="org.eclipse.jdt.ui.lastextjar"/>
+	<item value="D:\SECPROG MP\SECPROG_MP\FoobarBookshop_MP" key="org.eclipse.jdt.ui.lastextjar"/>
 	<section name="org.eclipse.jdt.internal.ui.packageview.PackageExplorerPart">
 		<item value="2" key="layout"/>
 		<item value="true" key="group_libraries"/>
